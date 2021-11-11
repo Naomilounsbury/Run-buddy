@@ -59,7 +59,7 @@ footer {
   /*Hero style start*/
   .hero {
     padding: 60px;
-    background-image: url(/assets/hero-bg.jpg);
+    background-image: url(/assets/flipped-hero-image.jpg);
     height: 600px;
     background-size: cover;
     background-position: center;

@@ -1,5 +1,15 @@
-# <Run-Buddy>
-## Decription
-Run-buddy is a promotion site that enables users to sign up for fitness classes and meet trainers. 
-The motivation is to motivate people to get fit.
-We built this project because 
+
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
